@@ -49,10 +49,10 @@
                                     </svg>
                                 </div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Adishke</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Hello Adishke</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Hi, Adishke! 
+                                    Hi, Adishke!eeeeeeeeeeeeeeeeeeee 
                                 </p>
                             </div>
                         </div>
